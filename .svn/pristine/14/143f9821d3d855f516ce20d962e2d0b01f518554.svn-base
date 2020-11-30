@@ -1,0 +1,85 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/addressdetails/index",
+    "pages/shoppingcart/index",
+    
+    "pages/orderdfk/index",
+    
+    "pages/my/index",
+    "pages/setting/set",
+    "pages/updateadrs/udateadrs",
+    "pages/address/address",
+    
+    "pages/orderysh/index",
+    "pages/orderyqx/index",
+    "pages/orderdsh/index",
+    
+    
+    
+    
+    "pages/detail/detail",
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    "pages/editcollection/index",
+    "pages/collection/index",
+    "pages/allorders/index",
+    "pages/confirm/index",
+    
+    "pages/shopclassify/index",
+    
+    
+    "pages/shoplist/shoplist",
+    "pages/index/index",
+    "pages/logs/logs"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "/pages/images/home.png",
+        "selectedIconPath": "/pages/images/homered.png"
+      },
+      {
+        "pagePath": "pages/shopclassify/index",
+        "text": "分类",
+        "iconPath": "/pages/images/classify.png",
+        "selectedIconPath": "/pages/images/classifyred.png"
+      },
+      {
+        "pagePath": "pages/shoppingcart/index",
+        "text": "购物车",
+        "iconPath": "/pages/images/shop.png",
+        "selectedIconPath": "/pages/images/shopred.png"
+      },
+      {
+        "pagePath": "pages/my/index",
+        "text": "我的",
+        "iconPath": "/pages/images/mine.png",
+        "selectedIconPath": "/pages/images/minered.png"
+      }
+    ],
+    "borderStyle": "black",
+    "selectedColor": "#A63432",
+    "color": "black"
+
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

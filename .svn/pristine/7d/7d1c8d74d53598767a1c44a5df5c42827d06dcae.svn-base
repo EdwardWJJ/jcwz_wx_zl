@@ -1,0 +1,53 @@
+<!--pages/orderyqx/index.wxml-->
+
+<view class="transverse"></view>
+<view class="text">{{list.order_name}}</view>
+<view class="textone">{{list.order_phone}}</view>
+<view class="dizhi">{{list.order_address}}</view>
+<image class="jt" src="../images/jt.png"></image>
+<view class="transverseon"></view>
+<view class="jiuname">{{alcohol.commodity_name}}</view>
+<view class="state">已取消订单</view>
+<image wx:if='{{alcohol.commodity_img}}' class="img" src="../images/{{alcohol.commodity_img}}"></image>
+<view class="jiudetails">{{alcohol.commodity_details}}</view>
+<view class="jiutype">{{alcohol.commodity_type}}</view>
+<view class="jiuPrice">¥{{alcohol.commodity_money}}</view>
+
+<view class="transverseon"></view>
+
+<view class="dingd">订单编号：</view>
+<view class="shuz">{{list.order_number}}</view>
+
+<view class="dingd">下单时间：</view>
+<view class="shuz">{{list.order_time}}</view>
+
+<view class="dingd">支付方式：</view>
+<view class="shuz">{{list.payment_method}}</view>
+
+<view class="dingd">供应商家：</view>
+<view class="shuz">{{list.supplier_business}}</view>
+
+<view class="dingd">配送方式：</view>
+<view class="shuz">{{list.distribution_mode}}</view>
+
+<view class="transversetwo"></view>
+
+
+
+<view class="shop">商品金额</view>
+<view class="shopmony">¥{{list.order_money}}</view>
+
+<view class="shopo">运费</view>
+<view class="shopmonyo">¥{{list.order_freight}}</view>
+
+<view class="transversetwo"></view>
+
+<view class="payment">
+<view class="shifu">实付金额：<view class="moneys">¥{{list.total_price}}</view></view>
+</view>
+
+
+<view class="footer">
+<view class="transversetwo"></view>
+<view class="hongkuai">再次购买</view>
+</view>

@@ -1,0 +1,49 @@
+<!--pages/home/home.wxml-->
+<view class='container'>
+  <!-- 搜索框 -->
+  <swiper class='swiper'>
+    <swiper-item>
+      <image src="../images/banner.png" class="bannerType" />
+    </swiper-item>
+  </swiper>
+  <!--分类导航 -->
+  <view class='nav'>
+    <view class='nav-item' bindtap='todetail' id='1'>
+      <image src='../images/busbottle.png'></image>
+      <text>商务宴请</text>
+    </view>
+    <view class='nav-item' bindtap='todetail' id='2'>
+      <image src='../images/wedbottle.png' ></image>
+      <text>婚庆用酒</text>
+    </view>
+    <view class='nav-item' bindtap='todetail' id='3'>
+    <image src='../images/fribottle.png' ></image>
+      <text>朋友聚会</text>
+    </view>
+    <view class='nav-item' bindtap='todetail' id='4'>
+    <image src='../images/paybottle.png' ></image>
+      <text>拜访礼节</text>
+    </view>
+  </view>
+  <!--啤酒系列 -->
+  <view class='wine'>
+    <view class='daohang'>
+    <p class='fenge'><image class="wire" src="../images/wire.png"></image><image class="hot" src="../images/hot.png"></image>
+      <p class='word'>热门推荐</p><image class="wire wire_right" src="../images/wire.png"></image></p>
+    </view>
+    <view class='wine-list'>
+    <block wx:for="{{alcohol}}" data-item="item">
+      <view class='wine-item' data-alcoholid="{{item.id}}" catchtap='todetailshop'>
+        <image src='../images/{{item.commodity_img}}'></image>
+        <text class="textTop">{{item.commodity_names}}</text>
+        <text class="textCenter">{{item.commodity_type}}</text>
+        <p class='p1'>￥{{item.commodity_money}}</p><p class='p2'>￥{{item.commodity_originalprice}}</p>
+      </view>
+      </block>
+    </view>  
+  </view>
+  <!-- <view class='back'>
+    <p><image src='http://bpic.588ku.com/element_origin_min_pic/01/49/51/7957446f13bb7fc.jpg'></image></p>
+  </view> -->
+
+</view>

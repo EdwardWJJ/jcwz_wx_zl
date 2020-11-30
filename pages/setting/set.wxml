@@ -1,0 +1,48 @@
+<!--pages/setting/set.wxml-->
+<view class="box">
+    <view class="box_list box_top">
+        <view class="box_list_left">帐号管理</view>
+        <view class="box_list_right">
+            <view>{{list.user_name}}</view>
+            <view><image src="../images/leftarrows.png"></image></view>
+        </view>
+    </view>
+    <view class="box_list">
+        <view class="box_list_left">联系方式</view>
+        <view class="box_list_right">
+            <view>{{list.user_phone}}</view>
+            <view><image src="../images/leftarrows.png"></image></view>
+        </view>
+    </view>
+    <view class="box_list" bindtap="updateadrs">
+        <view class="box_list_left">编辑收货地址</view>
+        <view class="box_list_right">
+            <view><image src="../images/leftarrows.png"></image></view>
+        </view>
+    </view>
+    <!-- <view class="box_list box_top">
+        <view class="box_list_left">消息推送</view>
+        <view class="box_list_right switch">
+            <view><switch checked="{{switch1Checked}}" bindchange="changetap" /></view>
+        </view>
+    </view>
+    <view class="box_list">
+        <view class="box_list_left">清除图片换存</view>
+        <view class="box_list_right">
+            <view>1.3M</view>
+        </view>
+    </view> -->
+    <!-- <view class="box_list box_top">
+        <view class="box_list_left">意见反馈</view>
+        <view class="box_list_right">
+            <view><image src="../images/leftarrows.png"></image></view>
+        </view>
+    </view>
+    <view class="box_list">
+        <view class="box_list_left">关于我们</view>
+        <view class="box_list_right">
+            <view><image src="../images/leftarrows.png"></image></view>
+        </view>
+    </view> -->
+    <view class="exit"><view>退出登录</view></view>
+</view>

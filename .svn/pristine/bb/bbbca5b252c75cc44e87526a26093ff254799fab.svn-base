@@ -1,0 +1,165 @@
+/* pages/allorders/index.wxss */
+page {
+  background: rgba(240,240,240,1);
+}
+.backwhite {
+  background: white;
+}
+.transverse {
+  border:0.8px solid rgba(240,240,240,1);
+}
+.alltext {
+  font-size:0.8rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(169,57,55,1);
+  margin-left: 1.5rem;
+  margin-top: 0.5rem;
+}
+.dfktext {
+  font-size:0.8rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(51,51,51,1);
+  margin-left: 4.35rem;
+  margin-top: -1rem;
+}
+.dshtext {
+  font-size:0.8rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(51,51,51,1);
+  margin-left: 8rem;
+  margin-top: -1rem;
+}
+.ywctext {
+  font-size:0.8rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(51,51,51,1);
+  margin-left: 12rem;
+  margin-top: -1.02rem;
+}
+.yqxtext {
+  font-size:0.8rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(51,51,51,1);
+  margin-left: 16rem;
+  margin-top: -1.02rem;
+}
+.transverseon {
+  margin-top: 0.5rem;
+  border:0.3rem solid rgba(240,240,240,1);
+}
+.jiuname {
+  margin-top: 0.5rem;
+  margin-left: 1rem;
+  font-size:0.8rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(51,51,51,1);
+}
+.img {
+  width:5rem;
+  height:5rem;
+  border-radius:10px;
+  margin-left: 1rem;
+  margin-top: 0.6rem;
+}
+.jiudetails {
+  font-size:0.7rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(51,51,51,1);
+  margin-left: 7rem;
+  margin-top: -4.7rem;
+}
+.jiutype {
+  font-size:0.7rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(153,153,153,1);
+  margin-left: 7rem;
+  margin-top: 0.5rem;
+}
+.toal {
+  font-size:0.7rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(153,153,153,1);
+  float: right;
+  margin-right: 1rem;
+  margin-top: 0.55rem;
+}
+.toalone {
+  font-size:0.7rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(153,153,153,1);
+  float: right;
+  margin-right: 0.2rem;
+  margin-top: 0.55rem;
+}
+
+.jiuPrice {
+  font-size:0.8rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(169,57,55,1);
+  float: right;
+  margin-right: 1rem;
+  margin-top: 0.5rem;
+}
+.dfktex {
+  font-size:0.7rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(153,153,153,1);
+  float: right;
+  margin-top: -0.8rem;
+  margin-right: 1rem;
+}
+.transversejiu {
+  margin-top: 2.8rem;
+  border:0.8px solid rgba(240,240,240,1);
+}
+.kuai {
+  width:4rem;
+  height:1.2rem;
+  background:rgba(255,255,255,1);
+  border:0.05rem solid rgba(153,153,153,1);
+  line-height: 1.2rem;
+  border-radius:0.2rem;
+  text-align: center;
+  font-size:0.65rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(102,102,102,1);
+  float: right;
+  margin-top: 0.5rem;
+  margin-right: 0.5rem;
+}
+.hongkuai {
+  width:4rem;
+  height:1.26rem;
+  background:rgba(169,57,55,1);
+  border-radius:0.2rem;
+  line-height: 1.2rem;
+  text-align: center;
+  font-size:0.65rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(255,255,255,1);
+  float: right;
+  margin-top: 0.5rem;
+  margin-right: 1rem;
+}
+.transversen {
+  margin-top: 2.3rem;
+  border:0.3rem solid rgba(240,240,240,1);
+}
+.footal {
+  margin-top: 2.3rem;
+  border:5rem solid rgba(240,240,240,1);
+}

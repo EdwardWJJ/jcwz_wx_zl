@@ -1,0 +1,51 @@
+<!--pages/my/index.wxml-->
+<image class="bj" src="bj.png">
+<image class="tou" src="tou.png"></image>
+<view class="bj_text">{{list.admin_name}}</view>
+<view class="bj_t">
+<view class="bjt_text">{{list.admin_type}}</view>
+</view>
+</image>
+<view class="contntone">
+<view class="see">查看全部订单</view>
+<image class="jt" src="jt.png"></image>
+<view class="cdd" bindtap="orderdfk">
+<image class="seeimg" src="dfk.png"></image>
+<view class="seetext">待付款</view>
+</view>
+<view class="cdd" bindtap="orderdsh">
+<image class="seeimg" src="dsh.png"></image>
+<view class="seetext">待收货</view>
+</view>
+<view class="cdd" bindtap="orderysh">
+<image class="seeimg" src="ywc.png"></image>
+<view class="seetext">已完成</view>
+</view>
+<view class="cdd" bindtap="orderyqs">
+<image class="seeimg" src="yqs.png"></image>
+<view class="seetext">已取消</view>
+</view>
+</view>
+<view class="transverse"></view>
+<view class="content">
+<view class="contenttext">我的服务</view>
+
+<view class="yhk">
+<image class="seeimg" src="yhk.png"></image>
+<view class="seetextt">银行卡</view>
+</view>
+<view class="yhk">
+<image class="seeimg" src="smrz.png"></image>
+<view class="seetextone">实名认证</view>
+</view>
+<view class="yhk" bindtap="address">
+<image class="seeimg" src="shdzgl.png"></image>
+<view class="seetexttwo">收货地址管理</view>
+</view>
+<view class="yhk" bindtap="setting">
+<image class="seeimg" src="sz.png"></image>
+<view class="seetextthree">设置</view>
+</view>
+
+</view>
+

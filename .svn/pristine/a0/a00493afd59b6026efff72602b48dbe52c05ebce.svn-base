@@ -1,0 +1,44 @@
+---------------------------------------------------------------
+[ 2019-12-24T17:53:00+08:00 ] 0.0.0.0 GET localhost:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026642s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.017012s ]
+---------------------------------------------------------------
+[ 2019-12-24T17:53:31+08:00 ] 192.168.0.105 GET 192.168.0.105:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025333s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.013473s ]
+---------------------------------------------------------------
+[ 2019-12-24T17:54:54+08:00 ] 0.0.0.0 GET localhost:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026879s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.016702s ]
+---------------------------------------------------------------
+[ 2019-12-24T17:55:09+08:00 ] 0.0.0.0 GET localhost:8081/jcwz_wx/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026815s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.015379s ]
+---------------------------------------------------------------
+[ 2019-12-24T17:55:12+08:00 ] 0.0.0.0 GET localhost:8081/jcwz_wx/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.031153s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.022137s ]
+---------------------------------------------------------------
+[ 2019-12-24T17:55:12+08:00 ] 0.0.0.0 GET localhost:8081/jcwz_wx/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025765s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.012935s ]
+---------------------------------------------------------------
+[ 2019-12-24T17:55:13+08:00 ] 0.0.0.0 GET localhost:8081/jcwz_wx/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027895s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.017405s ]
+---------------------------------------------------------------
+[ 2019-12-24T17:56:09+08:00 ] 0.0.0.0 GET localhost:8081/jcwz_wx/public/index.php
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028182s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.014151s ]
+---------------------------------------------------------------
+[ 2019-12-24T17:58:12+08:00 ] 0.0.0.0 GET localhost:8081/jcwz_wx/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028722s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.014878s ]
+---------------------------------------------------------------
+[ 2019-12-24T17:58:23+08:00 ] 192.168.0.105 GET 192.168.0.105:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025650s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.012607s ]
+---------------------------------------------------------------
+[ 2019-12-24T18:02:53+08:00 ] 0.0.0.0 GET localhost:8081/jcwz_wx/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026977s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.013867s ]

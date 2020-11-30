@@ -1,0 +1,66 @@
+<!--pages/allorders/index.wxml-->
+<view class="backwhite">
+<view class="transverse"></view>
+<view class="alltext">全部</view>
+<view class="dfktext">待付款</view>
+<view class="dshtext">待收货</view>
+<view class="ywctext">已完成</view>
+<view class="yqxtext">已取消</view>
+</view>
+<view class="backwhite">
+<view class="transverseon"></view>
+
+<view class="jiuname">五粮液</view>
+<view class="dfktex">待付款</view>
+<image class="img" src="jiu.png"></image>
+<view class="jiudetails">全新52度五粮液(第八代经典版)-500ML</view>
+<view class="jiutype">酱香型ll</view>
+<view class="jiuPrice">¥1309.00</view>
+<view class="toalone">共付：</view>
+<view class="toal">共1件商品</view>
+<view class="transversejiu"></view>
+<view class="hongkuai">去付款</view>
+<view class="kuai">取消订单</view>
+
+<view class="transversen"></view>
+
+<view class="jiuname">五粮液</view>
+<view class="dfktex">待收货</view>
+<image class="img" src="jiu.png"></image>
+<view class="jiudetails">全新52度五粮液(第八代经典版)-500ML</view>
+<view class="jiutype">酱香型ll</view>
+<view class="jiuPrice">¥1309.00</view>
+<view class="toalone">共付：</view>
+<view class="toal">共1件商品</view>
+<view class="transversejiu"></view>
+<view class="hongkuai">确认收货</view>
+
+<view class="transversen"></view>
+
+<view class="jiuname">五粮液</view>
+<view class="dfktex">已完成</view>
+<image class="img" src="jiu.png"></image>
+<view class="jiudetails">全新52度五粮液(第八代经典版)-500ML</view>
+<view class="jiutype">酱香型ll</view>
+<view class="jiuPrice">¥1309.00</view>
+<view class="toalone">共付：</view>
+<view class="toal">共1件商品</view>
+<view class="transversejiu"></view>
+<view class="hongkuai">再来一单</view>
+
+<view class="transversen"></view>
+
+<view class="jiuname">五粮液</view>
+<view class="dfktex">已取消</view>
+<image class="img" src="jiu.png"></image>
+<view class="jiudetails">全新52度五粮液(第八代经典版)-500ML</view>
+<view class="jiutype">酱香型ll</view>
+<view class="jiuPrice">¥1309.00</view>
+<view class="toalone">共付：</view>
+<view class="toal">共1件商品</view>
+<view class="transversejiu"></view>
+<view class="hongkuai">再次购买</view>
+
+<view class="footal"></view>
+
+</view>

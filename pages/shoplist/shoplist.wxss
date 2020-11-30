@@ -1,0 +1,105 @@
+/* pages/shoplist/shoplist.wxss */
+.container .header {
+  width: 85%;
+  border-radius: 10rpx;
+  padding-top: 0%;
+  margin-top: 1%;
+  position: fixed;
+}
+
+.header .searchcion {
+  padding-top: 2.6%;
+  position: absolute;
+  left: 87%;
+  z-index: 2;
+  width: 40rpx;
+  height: 40rpx;
+  text-align: center;
+}
+.container .header input {
+  font-size: 36rpx;
+  border-radius: 40rpx;
+  background-color: rgb(240, 240, 240);
+  height: 80rpx;
+  padding-left: 5%;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  height: 60rpx;
+  width: 100%;
+  border-bottom: 1px solid gainsboro;
+  margin-top: 100rpx;
+}
+
+.nav-item {
+  margin: 10rpx;
+  margin-left: 60rpx;
+}
+.titleColor{
+  color:#A93937;
+}
+
+.nav text {
+  display: block;
+  font-size: 36rpx;
+  margin-right: 60rpx;
+  text-align: center;
+}
+
+.nav-dao {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: 60rpx;
+  border: 1px solid #fff;
+}
+
+.nav-dao .nav-hang p {
+  margin: 20rpx;
+  font-size: 34rpx;
+  overflow: hidden;
+}
+.wine-list{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.wine-item{
+  margin: 20rpx;
+}
+.wine-item text{
+  display: block;
+  width: 325rpx;
+  font-size: 32rpx;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.wine image{
+  width: 330rpx;
+  height: 330rpx;  
+}
+
+
+.textTop{
+  font-weight: 900;
+}
+.textCenter{
+  font-size: 30rpx !important;
+  font-family: 'PingFangSC-Regular';
+  color: #666666;
+}
+.wine-item .p1{
+  color: #A63432;
+  font-size: 42rpx;
+}
+.wine-item .p2{
+  color: #ccc;
+  font-size: 36rpx;
+  padding-left: 3%;
+  text-decoration:line-through;
+}

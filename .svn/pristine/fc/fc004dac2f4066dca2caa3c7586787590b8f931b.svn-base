@@ -1,0 +1,132 @@
+---------------------------------------------------------------
+[ 2019-12-25T10:08:44+08:00 ] 192.168.0.100 GET 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:9.100833s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.031339s ]
+---------------------------------------------------------------
+[ 2019-12-25T10:14:35+08:00 ] 192.168.0.100 GET 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021951s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.011370s ]
+---------------------------------------------------------------
+[ 2019-12-25T10:14:40+08:00 ] 192.168.0.100 GET 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.032966s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.013054s ]
+---------------------------------------------------------------
+[ 2019-12-25T11:50:14+08:00 ] 192.168.0.100 GET 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.227054s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.067937s ]
+---------------------------------------------------------------
+[ 2019-12-25T11:58:13+08:00 ] 192.168.0.100 GET 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019843s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.011901s ]
+---------------------------------------------------------------
+[ 2019-12-25T13:34:30+08:00 ] 192.168.0.100 GET 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023878s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.011231s ]
+---------------------------------------------------------------
+[ 2019-12-25T13:56:07+08:00 ] 192.168.0.100 POST 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026306s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.012312s ]
+---------------------------------------------------------------
+[ 2019-12-25T13:57:09+08:00 ] 192.168.0.100 POST 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.034450s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin WHERE id='2' [ RunTime:0.015270s ]
+---------------------------------------------------------------
+[ 2019-12-25T13:57:19+08:00 ] 192.168.0.100 POST 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018744s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin WHERE id='4' [ RunTime:0.011874s ]
+---------------------------------------------------------------
+[ 2019-12-25T13:57:37+08:00 ] 192.168.0.100 POST 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020312s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin WHERE id='' [ RunTime:0.338969s ]
+---------------------------------------------------------------
+[ 2019-12-25T13:57:53+08:00 ] 192.168.0.100 POST 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027753s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.010942s ]
+---------------------------------------------------------------
+[ 2019-12-25T13:57:59+08:00 ] 192.168.0.100 POST 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020470s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.011712s ]
+---------------------------------------------------------------
+[ 2019-12-25T14:16:38+08:00 ] 192.168.0.100 GET 192.168.0.100:8081/jcwz_wx/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023178s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.010679s ]
+---------------------------------------------------------------
+[ 2019-12-25T14:50:12+08:00 ] 0.0.0.0 GET localhost:8081/jcwz_wx/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.031328s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.017120s ]
+---------------------------------------------------------------
+[ 2019-12-25T15:03:57+08:00 ] 0.0.0.0 GET localhost:8081/jcwz_wx/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.035383s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.015299s ]
+---------------------------------------------------------------
+[ 2019-12-25T15:24:43+08:00 ] 0.0.0.0 GET localhost:8081/jcwz_wx/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.033220s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.013564s ]
+---------------------------------------------------------------
+[ 2019-12-25T15:34:51+08:00 ] 192.168.0.100 POST 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023059s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.014886s ]
+---------------------------------------------------------------
+[ 2019-12-25T15:35:45+08:00 ] 192.168.0.100 POST 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.044058s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_companynews [ RunTime:0.024456s ]
+---------------------------------------------------------------
+[ 2019-12-25T15:38:12+08:00 ] 192.168.0.100 POST 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.029120s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.016276s ]
+---------------------------------------------------------------
+[ 2019-12-25T16:00:50+08:00 ] 192.168.0.100 POST 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.029118s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.015960s ]
+---------------------------------------------------------------
+[ 2019-12-25T16:07:08+08:00 ] 192.168.0.100 POST 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.037600s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.012235s ]
+---------------------------------------------------------------
+[ 2019-12-25T16:15:24+08:00 ] 192.168.0.100 POST 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020977s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdfk [ RunTime:0.011893s ]
+---------------------------------------------------------------
+[ 2019-12-25T16:17:27+08:00 ] 192.168.0.100 POST 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.032237s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdfk [ RunTime:0.023097s ]
+---------------------------------------------------------------
+[ 2019-12-25T16:18:02+08:00 ] 192.168.0.100 POST 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018176s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdfk [ RunTime:0.013228s ]
+---------------------------------------------------------------
+[ 2019-12-25T16:18:13+08:00 ] 192.168.0.100 POST 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020797s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdfk [ RunTime:0.013598s ]
+---------------------------------------------------------------
+[ 2019-12-25T16:20:09+08:00 ] 192.168.0.100 POST 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022493s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdfk [ RunTime:0.012575s ]
+---------------------------------------------------------------
+[ 2019-12-25T16:20:20+08:00 ] 192.168.0.100 POST 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018964s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdfk [ RunTime:0.011818s ]
+---------------------------------------------------------------
+[ 2019-12-25T16:23:32+08:00 ] 192.168.0.100 POST 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021175s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdfk [ RunTime:0.011781s ]
+---------------------------------------------------------------
+[ 2019-12-25T17:04:28+08:00 ] 192.168.0.100 POST 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.029548s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdfk [ RunTime:0.022766s ]
+---------------------------------------------------------------
+[ 2019-12-25T17:04:47+08:00 ] 192.168.0.100 POST 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.448202s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdfk [ RunTime:0.721652s ]
+---------------------------------------------------------------
+[ 2019-12-25T17:04:59+08:00 ] 192.168.0.100 POST 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.699309s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdfk [ RunTime:0.260916s ]
+---------------------------------------------------------------
+[ 2019-12-25T17:05:02+08:00 ] 192.168.0.100 POST 192.168.0.100:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:1.686107s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdfk [ RunTime:8.032029s ]
+---------------------------------------------------------------
+[ 2019-12-25T17:39:03+08:00 ] 0.0.0.0 GET localhost:8081/jcwz_wx/public/
+[ sql ] [ DB ] CONNECT:[ UseTime:0.333777s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_zl;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdfk [ RunTime:0.154955s ]

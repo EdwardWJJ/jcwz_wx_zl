@@ -1,0 +1,80 @@
+/* pages/collection/home.wxss */
+.back {
+  width:100%;
+  height:2.3rem;
+  background:rgba(246,247,247,1);
+}
+.texto {
+  font-size:0.8rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(51,51,51,1);
+  line-height:2.2rem;
+  float: left;
+  margin-left: 1rem;
+}
+.textt {
+  font-size:0.8rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:#A93937FF;
+  line-height:2.2rem;
+  float: left;
+  margin-left: 0.3rem;
+}
+.texth {
+  font-size:0.8rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(51,51,51,1);
+  line-height:2.2rem;
+  float: left;
+  margin-left: 0.3rem;
+}
+.deit {
+  font-size:0.8rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(169,57,55,1);
+  line-height:2.2rem;
+  float: right;
+  margin-right: 1rem;
+}
+.wine {
+  margin-top: 0.5rem;
+}
+.wine-list{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.wine-item{
+  margin: 20rpx;
+}
+.wine-item text{
+  display: block;
+  width: 325rpx;
+  font-size: 32rpx;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.wine image{
+  width: 330rpx;
+  height: 330rpx;  
+}
+.textTop{
+  font-weight: 900;
+}
+.wine-item .p1{
+  color: #A63432;
+  font-size: 42rpx;
+}
+.wine-item .p2{
+  color: #ccc;
+  font-size: 36rpx;
+  padding-left: 3%;
+  text-decoration:line-through;
+}

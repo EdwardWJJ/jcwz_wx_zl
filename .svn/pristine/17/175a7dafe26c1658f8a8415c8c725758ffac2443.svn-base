@@ -1,0 +1,1779 @@
+---------------------------------------------------------------
+[ 2019-12-27T09:15:24+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/index
+[ sql ] [ DB ] CONNECT:[ UseTime:9.178598s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.089135s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:20:35+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027436s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.010195s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:25:30+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.030251s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.016347s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:26:00+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025971s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.017972s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:28:22+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028099s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012151s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:28:31+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018876s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012358s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:28:41+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.033463s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.021794s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:28:57+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023389s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.011802s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:29:06+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021243s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.011574s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:29:19+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018936s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.011555s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:29:27+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018505s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.011273s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:29:32+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022022s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.014648s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:29:37+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022422s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.011574s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:29:42+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026228s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.020500s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:29:49+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022682s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.011102s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:30:20+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.044467s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.017523s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:30:28+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.062569s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.031945s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:30:35+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.053447s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.034636s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:30:44+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.069100s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.013795s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:30:46+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdsh
+[ sql ] [ DB ] CONNECT:[ UseTime:0.067998s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 2 [ RunTime:0.029581s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:30:49+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderysh
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026707s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 4 [ RunTime:0.019471s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:30:51+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderyqx
+[ sql ] [ DB ] CONNECT:[ UseTime:0.194559s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 3 [ RunTime:0.088323s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:30:54+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023957s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.054244s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:32:28+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.017683s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.011972s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:32:30+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021924s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012385s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:34:42+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022802s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.018026s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:34:47+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021905s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.011757s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:34:57+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.030515s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.015238s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:37:31+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024181s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012548s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:37:41+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.031307s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.019133s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:38:02+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.034856s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.013109s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:38:13+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020092s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.011161s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:38:24+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020208s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.011922s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:42:37+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.030124s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.013718s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:42:44+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023457s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.032610s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:42:51+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.053226s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.011336s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:43:09+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026513s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.013480s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:43:16+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027544s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.016781s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:43:29+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021204s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012354s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:43:48+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020473s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012728s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:44:05+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026795s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.013862s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:44:16+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028233s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012927s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:44:53+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019782s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.029847s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:44:55+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdsh
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018125s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 2 [ RunTime:0.018112s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:44:58+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022582s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.015197s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:45:33+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023711s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.027015s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:45:35+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026853s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.016689s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:48:39+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024601s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.017607s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:48:45+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020626s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.015520s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:54:15+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025273s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.013976s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:55:10+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021145s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.015064s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:55:10+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019183s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.015151s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:56:04+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020294s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.026140s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:56:04+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.038199s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.023175s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:56:39+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021283s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.013715s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:56:39+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021457s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012666s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:56:59+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.017856s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012752s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:56:59+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025774s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.012230s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:57:27+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023631s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012879s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:57:27+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021788s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.028187s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:57:43+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022940s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.013715s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:57:43+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024231s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.014273s ]
+---------------------------------------------------------------
+[ 2019-12-27T09:58:21+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021625s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012915s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:00:24+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.029716s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.011588s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:00:37+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025103s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.013210s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:00:37+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021594s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.013066s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:01:46+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019820s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.019364s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:01:47+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020895s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012824s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:02:23+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026561s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.019356s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:02:23+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021923s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.015973s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:03:02+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020813s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.015792s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:03:02+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023756s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.027657s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:03:14+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.029305s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.015677s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:03:14+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027033s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.013338s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:03:31+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022916s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.012567s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:03:33+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018563s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.012817s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:03:33+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025676s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012336s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:03:39+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdsh
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022178s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 2 [ RunTime:0.015423s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:03:39+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.029577s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.015045s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:04:01+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018936s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.015994s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:04:02+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdsh
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027019s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 2 [ RunTime:0.015692s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:04:02+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022807s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.016258s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:04:08+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderysh
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021471s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 4 [ RunTime:0.012888s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:04:08+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024156s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.012530s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:04:15+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022301s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.012669s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:04:15+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderyqx
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024551s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 3 [ RunTime:0.013698s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:05:25+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/address
+[ sql ] [ DB ] CONNECT:[ UseTime:0.030571s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_user [ RunTime:0.020038s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:06:57+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021292s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.024108s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:07:08+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023077s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012863s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:07:08+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019989s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.011407s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:07:19+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019638s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.013736s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:07:19+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025436s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.011435s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:07:30+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018071s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.011724s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:07:30+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021638s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.016809s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:07:40+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019392s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.015333s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:07:40+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025632s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.016428s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:07:49+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019015s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.013440s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:08:04+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/address
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018600s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_user [ RunTime:0.012141s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:08:09+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/address
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022843s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_user [ RunTime:0.016370s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:17:49+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028471s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.016799s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:17:55+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018853s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.014337s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:19:13+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021554s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.010757s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:20:48+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020518s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.012021s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:21:22+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.038738s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.022447s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:22:05+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020448s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.013601s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:22:30+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025846s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.014008s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:31:45+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025988s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.016180s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:34:46+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024873s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.014464s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:36:20+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026147s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.012664s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:36:26+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026741s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.014955s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:39:29+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028624s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.015612s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:42:07+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020236s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.010753s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:42:25+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.055727s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.021457s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:42:43+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.016986s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.012520s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:44:10+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.017319s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.012498s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:44:18+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026276s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.012682s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:44:42+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026706s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.012791s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:44:50+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028414s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.015557s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:47:26+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024532s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.021451s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:47:50+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026389s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.020390s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:48:02+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024871s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.014405s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:49:17+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.031388s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.019525s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:50:00+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024187s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.016228s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:50:38+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028393s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.013915s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:53:41+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025131s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.018170s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:53:45+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselect
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019760s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE id = '2' [ RunTime:0.010827s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:54:17+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselect
+[ sql ] [ DB ] CONNECT:[ UseTime:0.054324s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE id = '1' [ RunTime:0.035105s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:55:02+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018826s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.010674s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:55:03+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselect
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022623s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE id = '1' [ RunTime:0.012354s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:55:12+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018795s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.010870s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:55:16+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselect
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028283s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE id = '1' [ RunTime:0.014720s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:59:00+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023982s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.019226s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:59:20+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024230s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.014549s ]
+---------------------------------------------------------------
+[ 2019-12-27T10:59:23+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselect
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020685s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE id = '1' [ RunTime:0.011504s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:02:43+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028034s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.015244s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:02:47+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselect
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019513s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE id = '3' [ RunTime:0.012495s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:14:57+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020634s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.012869s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:15:17+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019609s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.015754s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:15:56+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021738s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.012515s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:16:11+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027545s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.022117s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:19:13+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024091s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.013305s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:19:31+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022954s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.017058s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:19:40+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024018s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.016905s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:19:43+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023634s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.013720s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:20:36+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027444s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.015472s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:21:01+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020649s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.012969s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:22:13+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020612s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.014468s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:22:39+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021392s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.013505s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:22:47+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024132s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.015780s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:28:51+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024214s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.022374s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:29:18+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023876s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' [ RunTime:0.017088s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:29:42+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.054521s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' [ RunTime:0.054093s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:30:53+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.043683s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.022424s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:32:03+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.062372s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' [ RunTime:0.023125s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:32:35+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027171s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '2' [ RunTime:0.016411s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:32:39+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027527s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '3' [ RunTime:0.017146s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:32:43+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.110548s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '4' [ RunTime:0.073082s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:33:12+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselect
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023954s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE id = '11' [ RunTime:0.014508s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:33:24+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselect
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023751s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE id = '12' [ RunTime:0.013592s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:35:33+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024219s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.020377s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:35:57+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.029101s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.027639s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:36:57+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026800s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.021732s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:37:15+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026408s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.046364s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:37:31+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026220s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.020768s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:37:45+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028885s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.021741s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:38:01+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselect
+[ sql ] [ DB ] CONNECT:[ UseTime:0.080935s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE id = '1' [ RunTime:0.053582s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:38:55+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027242s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.035430s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:39:11+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.034449s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.025838s ]
+---------------------------------------------------------------
+[ 2019-12-27T11:39:21+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026269s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.023001s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:32:06+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025452s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.034824s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:32:10+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025954s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' [ RunTime:0.014454s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:37:03+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027487s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.019366s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:38:01+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselect
+[ sql ] [ DB ] CONNECT:[ UseTime:0.035308s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE id = '1' [ RunTime:0.032848s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:38:03+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.032335s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' [ RunTime:0.012450s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:38:09+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselect
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018081s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE id = '1' [ RunTime:0.015979s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:42:06+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021685s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.017445s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:42:30+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027040s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.020831s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:42:32+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselect
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019833s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE id = '1' [ RunTime:0.012365s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:42:33+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020411s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' [ RunTime:0.013601s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:45:05+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027728s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.019455s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:45:33+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026200s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.021888s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:45:36+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019880s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' [ RunTime:0.011735s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:46:06+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.038994s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.074547s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:46:08+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.324896s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' [ RunTime:0.093576s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:46:33+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020173s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.020737s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:46:36+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020209s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' [ RunTime:0.014799s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:48:57+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024596s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.020333s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:49:40+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022353s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.022588s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:49:43+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025693s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' [ RunTime:0.017708s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:50:44+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.039373s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.029233s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:53:40+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019372s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.018467s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:53:44+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019222s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' [ RunTime:0.014803s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:53:50+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.050406s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'shopname' in 'where clause'
+---------------------------------------------------------------
+[ 2019-12-27T13:53:50+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024208s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'shopname' in 'where clause'
+---------------------------------------------------------------
+[ 2019-12-27T13:53:50+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023173s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'shopname' in 'where clause'
+---------------------------------------------------------------
+[ 2019-12-27T13:53:51+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025110s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'shopname' in 'where clause'
+---------------------------------------------------------------
+[ 2019-12-27T13:53:51+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020273s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'shopname' in 'where clause'
+---------------------------------------------------------------
+[ 2019-12-27T13:53:51+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020959s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'shopname' in 'where clause'
+---------------------------------------------------------------
+[ 2019-12-27T13:53:51+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024827s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'shopname' in 'where clause'
+---------------------------------------------------------------
+[ 2019-12-27T13:54:29+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.035343s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = '好' [ RunTime:0.014378s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:30+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.034328s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = '' [ RunTime:0.011739s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:31+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.036487s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = 'h' [ RunTime:0.011504s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:31+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021078s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = 'ha' [ RunTime:0.011083s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:31+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.029543s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = 'hao' [ RunTime:0.014305s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:31+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.017849s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = '好' [ RunTime:0.012238s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:31+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026996s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = '好' [ RunTime:0.014337s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:41+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.050550s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = '好h' [ RunTime:0.011570s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:41+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028774s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = '好he' [ RunTime:0.011503s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:42+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018225s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = '好喝' [ RunTime:0.013308s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:42+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025468s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = '好喝' [ RunTime:0.013863s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:42+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.048562s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = '好喝d' [ RunTime:0.024844s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:42+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.032087s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = '好喝de' [ RunTime:0.014319s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:43+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023322s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = '好喝的' [ RunTime:0.026686s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:43+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024375s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = '好喝的' [ RunTime:0.031626s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:43+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023440s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = '好喝的j' [ RunTime:0.015531s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:43+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020031s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = '好喝的ji' [ RunTime:0.012083s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:43+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021595s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = '好喝的jiu' [ RunTime:0.011941s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:44+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.038831s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = '好喝的酒' [ RunTime:0.012526s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:44+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.042111s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = '好喝的酒' [ RunTime:0.011381s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:45+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024689s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = '好喝的' [ RunTime:0.013133s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:46+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024472s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = '好喝' [ RunTime:0.011288s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:46+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026737s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = '好' [ RunTime:0.010552s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:54:46+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023661s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name = '' [ RunTime:0.014428s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:55:07+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022128s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%h%' [ RunTime:0.013443s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:55:07+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022050s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%ha%' [ RunTime:0.016138s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:55:07+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023005s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%hao%' [ RunTime:0.017051s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:55:07+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018953s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%好%' [ RunTime:0.011609s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:55:07+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023795s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%好%' [ RunTime:0.011553s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:55:08+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026387s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%%' [ RunTime:0.011851s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:55:09+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024634s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%g%' [ RunTime:0.011293s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:55:09+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.033243s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%gu%' [ RunTime:0.014292s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:55:09+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023728s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%gui%' [ RunTime:0.011584s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:55:10+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024869s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%贵%' [ RunTime:0.015863s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:55:11+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025178s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%%' [ RunTime:0.012097s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:55:13+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018171s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%w%' [ RunTime:0.012713s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:55:13+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021428s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%wu%' [ RunTime:0.014296s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:55:13+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024456s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%污%' [ RunTime:0.012654s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:55:13+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.031622s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%污%' [ RunTime:0.011228s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:55:13+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024866s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%%' [ RunTime:0.012792s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:55:14+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019365s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%w%' [ RunTime:0.011332s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:55:14+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024187s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%wu%' [ RunTime:0.011844s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:55:14+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025364s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%五%' [ RunTime:0.014546s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:55:14+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.030523s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%五%' [ RunTime:0.015848s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:57:11+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026839s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.021583s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:57:37+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021390s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' [ RunTime:0.014625s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:59:19+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021817s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.022827s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:59:25+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020474s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' [ RunTime:0.012825s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:59:51+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025412s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.020130s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:59:54+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021019s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' [ RunTime:0.011933s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:59:59+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.035830s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%h%' [ RunTime:0.012975s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:59:59+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.017725s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%ha%' [ RunTime:0.011534s ]
+---------------------------------------------------------------
+[ 2019-12-27T13:59:59+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024629s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%hao%' [ RunTime:0.011128s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:00+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020833s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%好%' [ RunTime:0.013927s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:00+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023615s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%好%' [ RunTime:0.013148s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:01+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.029721s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%%' [ RunTime:0.015864s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:03+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024210s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '2' [ RunTime:0.015190s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:05+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025219s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '2' AND commodity_name LIKE '%e%' [ RunTime:0.015880s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:05+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028566s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '2' AND commodity_name LIKE '%er%' [ RunTime:0.012607s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:06+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025486s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '2' AND commodity_name LIKE '%二%' [ RunTime:0.012422s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:06+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025403s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '2' AND commodity_name LIKE '%二%' [ RunTime:0.013839s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:07+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024062s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '2' AND commodity_name LIKE '%%' [ RunTime:0.012035s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:21+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024695s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '2' AND commodity_name LIKE '%n%' [ RunTime:0.012765s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:21+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020012s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '2' AND commodity_name LIKE '%ni%' [ RunTime:0.013446s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:22+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026114s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '2' AND commodity_name LIKE '%niu%' [ RunTime:0.013838s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:22+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027010s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '2' AND commodity_name LIKE '%牛%' [ RunTime:0.022693s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:22+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027374s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '2' AND commodity_name LIKE '%牛%' [ RunTime:0.023527s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:23+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024159s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '2' AND commodity_name LIKE '%%' [ RunTime:0.011432s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:27+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020096s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '3' [ RunTime:0.011618s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:33+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026618s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '4' [ RunTime:0.013306s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:48+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.054935s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' [ RunTime:0.034836s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:50+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027802s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%h%' [ RunTime:0.011391s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:50+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019232s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%ha%' [ RunTime:0.012014s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:50+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019200s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%hao%' [ RunTime:0.011783s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:50+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020956s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%好%' [ RunTime:0.013164s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:50+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026298s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%好%' [ RunTime:0.013719s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:00:51+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.038224s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%%' [ RunTime:0.011397s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:01:16+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.017287s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' [ RunTime:0.011263s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:01:18+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.036598s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%h%' [ RunTime:0.015343s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:01:18+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025564s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%ha%' [ RunTime:0.013838s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:01:18+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022754s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%hao%' [ RunTime:0.014200s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:01:18+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023732s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%好%' [ RunTime:0.011728s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:01:18+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024112s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%好%' [ RunTime:0.015483s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:01:22+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026521s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '2' [ RunTime:0.014418s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:01:33+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselect
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026144s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE id = '2' [ RunTime:0.011466s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:01:37+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselect
+[ sql ] [ DB ] CONNECT:[ UseTime:0.017669s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE id = '1' [ RunTime:0.012608s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:02:08+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselect
+[ sql ] [ DB ] CONNECT:[ UseTime:0.041968s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE id = '1' [ RunTime:0.015136s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:02:11+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselect
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018016s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE id = '2' [ RunTime:0.012571s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:02:52+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023121s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.015601s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:02:54+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025214s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.013786s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:02:54+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.016899s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.021625s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:03:14+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021517s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.014555s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:03:14+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022782s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.021894s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:06:32+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019235s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.019195s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:06:32+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027635s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.019992s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:06:50+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019450s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.023573s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:06:50+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024030s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.023700s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:07:10+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024967s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.017061s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:07:10+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025760s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.018909s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:07:22+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.017790s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.023107s ]
+[ RunTime:0.011948s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:07:33+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020598s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.018344s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:07:33+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021276s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.020349s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:07:45+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023485s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.015835s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:07:49+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderyqx
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026055s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 3 [ RunTime:0.016483s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:07:49+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025911s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.019985s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:07:51+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderysh
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025880s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 4 [ RunTime:0.013387s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:07:51+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025803s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.020455s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:07:53+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdsh
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020313s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 2 [ RunTime:0.014470s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:07:53+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019796s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.018855s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:07:56+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021004s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.016159s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:07:56+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021179s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.021401s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:08:04+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021934s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.013718s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:08:04+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023646s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.022422s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:16:34+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021756s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.014868s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:16:34+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024438s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012956s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:16:58+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026933s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012453s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:16:58+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027566s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.017117s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:17:04+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018956s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012701s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:17:04+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.017243s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.016823s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:17:17+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.040659s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.013472s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:17:17+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.040811s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.019918s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:17:31+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022351s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012703s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:17:31+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023786s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.016611s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:17:39+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020659s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.013967s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:17:39+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019474s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.018618s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:18:14+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023298s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.013935s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:18:14+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023573s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.017046s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:19:17+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026071s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.013599s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:19:17+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028146s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.017367s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:19:26+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019392s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.014011s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:19:26+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.016935s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.019897s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:19:48+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018264s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.013153s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:19:48+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019012s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.018404s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:19:56+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.017747s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.013480s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:19:57+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.016947s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.017548s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:20:29+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025385s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012821s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:20:29+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026605s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.018933s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:20:41+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023003s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.013822s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:20:41+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023235s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.025690s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:21:12+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022795s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.013793s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:21:15+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027304s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.023057s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:21:17+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselect
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022025s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE id = '1' [ RunTime:0.016840s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:21:21+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018007s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' [ RunTime:0.013264s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:21:27+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026203s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.015144s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:21:27+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020715s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.017436s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:21:58+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022691s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012756s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:21:58+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.017561s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.021514s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:22:04+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023207s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012485s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:22:04+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020269s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.017237s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:22:28+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022148s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.015631s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:22:28+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023077s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.018174s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:25:07+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027819s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.014177s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:25:07+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028204s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.020881s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:27:50+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021646s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.020872s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:27:50+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018473s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012912s ]
+[ error ] [8]未定义数组索引: order_money
+---------------------------------------------------------------
+[ 2019-12-27T14:28:29+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020273s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.016804s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:28:29+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024742s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012945s ]
+[ error ] [8]Use of undefined constant order_money - assumed 'order_money'
+---------------------------------------------------------------
+[ 2019-12-27T14:28:38+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023091s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.033939s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:28:38+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020434s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.037147s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:28:51+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020919s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.029241s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:28:51+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023616s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.034177s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:29:19+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024421s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.017933s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:29:19+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019898s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.022306s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:29:35+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024621s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.016440s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:35:13+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.030476s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.021706s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:35:13+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.031051s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.027094s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:35:32+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025873s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.014408s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:35:32+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020357s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.019542s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:38:19+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025762s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012686s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:38:19+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021930s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.024511s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:39:29+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021079s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.014331s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:39:29+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019467s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.019418s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:39:45+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021042s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.014179s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:39:45+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024391s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.026674s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:40:32+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025511s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.013927s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:40:32+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019122s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.020082s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:40:49+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024445s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.014838s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:40:49+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.030787s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.025160s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:41:01+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022733s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.021634s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:41:19+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027034s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012748s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:41:19+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.034538s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.022184s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:41:42+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025021s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012959s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:41:42+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025044s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.024300s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:41:52+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.037838s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.019868s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:41:52+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.035619s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.025908s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:42:39+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024059s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.018654s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:42:44+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselect
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022704s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE id = '1' [ RunTime:0.014105s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:42:51+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024305s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' [ RunTime:0.017486s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:42:55+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.027405s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%h%' [ RunTime:0.014048s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:42:55+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020358s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%ha%' [ RunTime:0.012648s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:42:55+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022597s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%hao%' [ RunTime:0.012180s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:42:55+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019689s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%好%' [ RunTime:0.011345s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:42:55+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026998s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%好%' [ RunTime:0.014416s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:43:55+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028276s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.020760s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:43:57+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022577s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' [ RunTime:0.013820s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:44:00+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028197s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%h%' [ RunTime:0.011436s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:44:00+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.017638s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%ha%' [ RunTime:0.011224s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:44:00+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025715s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%hao%' [ RunTime:0.013247s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:44:01+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024083s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%好%' [ RunTime:0.013272s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:44:01+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026126s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%好%' [ RunTime:0.022461s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:44:58+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021697s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.020271s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:45:00+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselecttype
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023344s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' [ RunTime:0.015597s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:45:03+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024905s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%a%' [ RunTime:0.014483s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:45:06+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024409s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%%' [ RunTime:0.015007s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:45:26+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.036381s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%a%' [ RunTime:0.011031s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:45:29+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023339s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%%' [ RunTime:0.012258s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:45:32+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022632s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%w%' [ RunTime:0.012061s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:45:35+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditysearch
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024638s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE status_bit = '1' AND commodity_name LIKE '%%' [ RunTime:0.012354s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:45:45+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.032931s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.018332s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:45:50+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025412s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.013685s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:45:51+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023986s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012860s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:45:51+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021911s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.024342s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:46:00+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdsh
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019748s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 2 [ RunTime:0.014093s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:46:00+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023249s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.021654s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:46:49+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdsh
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023566s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 2 [ RunTime:0.011641s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:46:49+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.029731s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.018536s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:46:51+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderysh
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019769s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 4 [ RunTime:0.012134s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:46:51+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024460s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.021030s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:46:53+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021672s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.020707s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:46:59+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderysh
+[ sql ] [ DB ] CONNECT:[ UseTime:0.050047s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 4 [ RunTime:0.010840s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:46:59+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderyqx
+[ sql ] [ DB ] CONNECT:[ UseTime:0.050240s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 3 [ RunTime:0.015436s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:46:59+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdsh
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021350s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 2 [ RunTime:0.015629s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:46:59+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.020758s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.019157s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:47:02+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderysh
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022747s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 4 [ RunTime:0.018994s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:47:02+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023494s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.025450s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:47:11+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdsh
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021975s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 2 [ RunTime:0.014466s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:47:11+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022613s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.020330s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:47:14+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021379s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.016101s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:47:14+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderysh
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026507s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 4 [ RunTime:0.013947s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:47:34+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028574s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.015906s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:47:37+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.038111s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.011269s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:47:40+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderysh
+[ sql ] [ DB ] CONNECT:[ UseTime:0.028455s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 4 [ RunTime:0.013553s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:48:28+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdfk
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021824s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 1 [ RunTime:0.012014s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:48:28+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021448s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.019400s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:48:31+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/orderdsh
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024007s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_orderdetails WHERE status_bit = 2 [ RunTime:0.010593s ]
+---------------------------------------------------------------
+[ 2019-12-27T14:48:31+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.026057s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.020638s ]
+---------------------------------------------------------------
+[ 2019-12-27T15:03:37+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022508s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.016986s ]
+---------------------------------------------------------------
+[ 2019-12-27T15:05:05+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.032672s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.019178s ]
+---------------------------------------------------------------
+[ 2019-12-27T15:05:26+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018191s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.020288s ]
+---------------------------------------------------------------
+[ 2019-12-27T15:07:00+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodity
+[ sql ] [ DB ] CONNECT:[ UseTime:0.018808s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity [ RunTime:0.017908s ]
+---------------------------------------------------------------
+[ 2019-12-27T15:07:02+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commodityselect
+[ sql ] [ DB ] CONNECT:[ UseTime:0.025926s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity WHERE id = '1' [ RunTime:0.013913s ]
+---------------------------------------------------------------
+[ 2019-12-27T15:09:02+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditycs
+[ sql ] [ DB ] CONNECT:[ UseTime:0.024909s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity LIMIT 3 [ RunTime:0.013855s ]
+---------------------------------------------------------------
+[ 2019-12-27T15:09:16+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.019783s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.011447s ]
+---------------------------------------------------------------
+[ 2019-12-27T15:18:38+08:00 ] 192.168.0.102 POST 192.168.0.102:8081/jcwz_wx/public/index/index/commoditycs
+[ sql ] [ DB ] CONNECT:[ UseTime:0.021018s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_commodity LIMIT 3 [ RunTime:0.015275s ]
+---------------------------------------------------------------
+[ 2019-12-27T15:19:10+08:00 ] 0.0.0.0 GET localhost:8081/jcwz_wx/public/index
+[ sql ] [ DB ] CONNECT:[ UseTime:0.022473s ] mysql:host=123.57.2.58;port=3306;dbname=jcwz_wx;charset=utf8
+[ sql ] [ SQL ]  SELECT * FROM tb_admin [ RunTime:0.025897s ]

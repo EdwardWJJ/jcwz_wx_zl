@@ -1,0 +1,125 @@
+/* pages/my/index.wxss */
+.bj {
+  width: 100%;
+  height: 8rem;
+}
+.tou {
+  position: absolute;
+  width:3.5rem;
+  height:3.5rem;
+  opacity:0.47;
+  margin-top: -6rem;
+  margin-left: 1rem;
+}
+.bj_text{
+  position: absolute;
+  font-size:1.2rem;
+  font-family:PingFang;
+  font-weight:bold;
+  color:rgba(44,44,44,1);
+  margin-top: -6rem;
+  margin-left: 5rem;
+}
+.bj_t {
+  position: absolute;
+  width:3rem;
+  height:1rem;
+  background:rgba(254,153,23,1);
+  border-radius:18px;
+  margin-top: -4.3rem;
+  margin-left: 5rem;
+}
+.bjt_text {
+  margin-top: 0.1rem;
+  text-align: center;
+  font-size:0.55rem;
+  font-family:PingFang;
+  font-weight:500;
+  color:rgba(255,255,255,1);
+}
+.contntone {
+  width:100%;
+  height:8rem;
+}
+.see {
+  margin-left: 1.5rem;
+  font-size:0.8rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(51,51,51,1);
+  line-height:3rem;
+}
+.jt {
+  width:0.6rem;
+  height:0.6rem;
+  float: right;
+  margin-right: 1.5rem;
+  margin-top: -1.8rem;
+}
+.seeimg {
+  width: 1.6rem;
+  height: 1.6rem;
+}
+.seetext {
+  font-size:0.6rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(51,51,51,1);
+  line-height:1.2rem;
+  margin-left: -0.1rem;
+}
+.seetextt {
+  font-size:0.6rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(51,51,51,1);
+  line-height:1.2rem;
+  margin-left: -0.1rem;
+}
+.seetextone {
+  font-size:0.6rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(51,51,51,1);
+  line-height:1.2rem;
+  margin-left: -0.5rem;
+}
+.seetexttwo {
+  font-size:0.6rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(51,51,51,1);
+  line-height:1.2rem;
+  margin-left: -1rem;
+}
+.seetextthree {
+  font-size:0.6rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(51,51,51,1);
+  line-height:1.2rem;
+  margin-left: 0.2rem;
+}
+.transverse {
+  margin-top: 0.6rem;
+  border:0.2rem solid rgba(240,240,240,1);
+}
+.content {
+  width:100%;
+}
+.contenttext {
+  font-size:0.8rem;
+  font-family:PingFang SC;
+  font-weight:400;
+  color:rgba(51,51,51,1);
+  line-height:3rem;
+  margin-left: 1.5rem;
+}
+.yhk {
+  float: left;
+  margin-left: 2.5rem;
+}
+.cdd {
+  float: left;
+  margin-left: 2.8rem;
+}

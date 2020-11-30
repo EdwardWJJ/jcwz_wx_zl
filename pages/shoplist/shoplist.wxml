@@ -1,0 +1,35 @@
+<!--pages/shoplist/shoplist.wxml-->
+<view class='container'>
+  <!-- 搜索框 -->
+  <view class='header' bindtap='yincang' style='position:fixed;background-color:white'>
+    <icon class="searchcion" size='25' type='search'></icon> 
+    <input bindinput='getInputValue' type='text' placeholder='搜索商品' placeholder-style='text-align:center'/>
+    </view>
+  <!--分类导航 -->
+  <view class='nav'>
+    <view class='nav-item titleColor'>
+      <text>综合</text>
+    </view>
+    <view class='nav-item'>
+      <text>销量</text>
+    </view>
+    <view class='nav-item'>
+      <text>价格</text>
+    </view>
+  </view>
+  <!--全部 -->
+<view class='wine'>
+    <view class='wine-list'>
+
+       <block wx:for="{{alcohol}}" data-item="item">
+      <view class='wine-item' data-alcoholid="{{item.id}}" catchtap='todetailshop'>
+        <image src='../images/{{item.commodity_img}}'></image>
+        <text class="textTop">{{item.commodity_names}}</text>
+        <text class="textCenter">{{item.commodity_type}}</text>
+        <p class='p1'>￥{{item.commodity_money}}</p><p class='p2'>￥{{item.commodity_originalprice}}</p>
+      </view>
+      </block>
+    
+    </view>  
+  </view>
+</view>

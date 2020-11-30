@@ -1,0 +1,162 @@
+/* pages/detail/detail.wxss */
+page {
+  background-color: rgb(245, 247, 246);
+}
+
+.container swiper {
+  width: 100%;
+  height: 600rpx;
+}
+
+.container .slide-image {
+  width: 100%;
+  height: 100%;
+}
+
+.end {
+  width: 100%;
+  height: 140rpx;
+  margin-top: 2%;
+  position: relative;
+}
+
+.collect {
+  font-family: PingFangSC-Regular;
+  float: left;
+  width: 16%;
+  height: 100%;
+  text-align: center;
+  font-family: PingFangSC-Regular;
+  font-size: 33rpx;
+  background-color: white;
+  position: absolute;
+  
+}
+.collect image{
+  width: 80rpx;
+  height: 80rpx;
+  margin-top: 7%;
+}
+.shopcar {
+  font-size: 33rpx;
+  height: 100%;
+  text-align: center;
+  font-family: PingFangSC-Regular;
+  float: left;
+  width: 16%;
+  background-color: white;
+  position: absolute;
+  margin-left: 16%;
+ 
+}
+.shopcar image{
+  width: 90rpx;
+  height: 90rpx;
+}
+
+.end-r {
+  width: 68%;
+  float: right;
+  height: 100%;
+  position: absolute;
+  margin-left: 32%;
+}
+
+.end-r .b1 {
+  width: 50%;
+  height: 100%;
+  font-size: 31rpx;
+  font-family: PingFangSC-Regular;
+  color: white;
+  background: #DFBB9B;
+  border-radius: 0rpx;
+  float: right;
+  padding-top: 8%;
+}
+
+.end-r .b2 {
+  width: 50%;
+  height: 100%;
+  font-size: 31rpx;
+  font-family: PingFangSC-Regular;
+  color: white;
+  background: #A93937;
+  border-radius: 0rpx;
+  float: right;
+  padding-top: 8%;
+}
+
+.wine_message {
+  width: 100%;
+  height: 270rpx;
+  background-color: white;
+}
+
+.wine_message .wine_prices {
+  width: 100%;
+  height: 60rpx;
+  margin-left: 3%;
+}
+
+.wine_message .wine_price {
+  float: left;
+  font-size: 46rpx;
+  color: red;
+  /* width: 100%;
+  height: 60rpx; */
+}
+
+.wine_name {
+  font-weight: bold;
+  font-size: 38rpx;
+  padding-left: 4%;
+  height: 130rpx;
+  border-bottom: 1rpx solid rgb(244, 244, 244);
+}
+
+.expressage {
+  width: 100%;
+  font-size: 40rpx;
+  color: gray;
+  margin-top: 1%;
+}
+
+.expressage_price {
+  float: left;
+  margin-left: 4%;
+}
+
+.address {
+  float: right;
+  margin-right: 3%;
+}
+
+.centerType {
+  width: 100%;
+  height: 160rpx;
+  background-color: white;
+  margin-top: 3%;
+}
+
+.specification {
+  height: 65rpx;
+  font-size: 50rpx;
+  padding-top: 2%;
+}
+
+.specifications {
+  float: left;
+  font-size: 30rpx;
+  color: black;
+  margin-left: 3%;
+  color: rgb(170, 170, 170);
+}
+.pirute{
+  width: 100%;
+  height: 1160rpx;
+  border: 1rpx bolid blue;
+}
+.pirute image{
+  width: 100%;
+  height: 50%;
+}

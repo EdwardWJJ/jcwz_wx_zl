@@ -1,0 +1,29 @@
+<!--pages/address/address.wxml-->
+<form bindsubmit='updateadrs'>
+<view class="box">
+    <view class="box_list box_top">
+        <view class="box_list_left">收货人</view>
+        <input class="inputTypeTop" name='user_name' type='text' placeholder='' value="{{list.user_name}}" />
+    </view>
+    <view class="box_list">
+        <view class="box_list_left">联系方式</view>
+        <input class="inputTypeDown" name='user_phone' type='text' placeholder='手机号' value="{{list.user_phone}}" />
+    </view>
+    <view class="box_list">
+        <view class="box_list_left">收货时间</view>
+        <input class="inputTypeDown" name='user_time' type='text' placeholder='请选择' value="{{list.user_time}}" />
+    </view>
+    <view class="box_list box_top">
+        <view class="box_list_left">所在地区</view>
+        <input class="inputTypeDown" name='user_region' type='text' placeholder='请选择' value="{{list.user_region}}" />
+        <image class="box_list_right" src="../images/leftarrows.png"></image>
+        
+    </view>
+    <view class="box_list">
+        <view class="box_list_left">详细地址</view>
+        <input class="inputTypeDown" name='detailed_address' type='text' placeholder='详细地址需要填写至楼层信息' value="{{list.detailed_address}}"/>
+        
+    </view>
+    <button class="exit" formType="submit">确认</button>
+</view>
+</form>

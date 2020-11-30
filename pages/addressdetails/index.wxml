@@ -1,0 +1,11 @@
+<!--pages/addressdetails/index.wxml-->
+<view class="box">
+    <view class="box_list box_top">
+        <view class="box_list_left">{{list.user_name}}</view>
+        <view class="box_list_right">
+            <view>{{list.detailed_address}}</view>
+            <view data-alcoholid="{{list.id}}" catchtap='addressdetails'><image src="../images/leftarrows.png"></image></view>
+        </view>
+    </view>
+</view>
+

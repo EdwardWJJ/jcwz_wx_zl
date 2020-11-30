@@ -1,0 +1,182 @@
+Page({
+  data: {
+    cateItems: [
+      {
+        cate_id: 1,
+        cate_name: "活动专区",
+        ishaveChild: true,
+        children:
+        [
+          {
+            child_id: 1,
+            name: '陈年酒',
+            image: "/pages/images/oldyear.png"
+          },
+          {
+            child_id: 2,
+            name: '普通酒',
+            image: "/pages/images/commonj.png"
+          },
+          {
+            child_id: 3,
+            name: '低度酒',
+            image: "/pages/images/minuentj.png"
+          },
+          {
+            child_id: 4,
+            name: '系列酒',
+            image: "/pages/images/copula.png"
+          }
+        ]
+      },
+      {
+        cate_id: 2,
+        cate_name: "系列酒",
+        ishaveChild: true,
+        children:
+        [
+          {
+            child_id: 1,
+            name: '特区系列',
+            image: "/pages/images/tqxl.png"
+          },
+          {
+            child_id: 2,
+            name: '头曲系列',
+            image: "/pages/images/touqxl.png"
+          },
+          {
+            child_id: 3,
+            name: '百家宴系列',
+            image: "/pages/images/bjyxl.png"
+          }
+        ]
+      },
+      {
+        cate_id: 3,
+        cate_name: "文创产品",
+        ishaveChild: true,
+        children:
+        [
+          {
+            child_id: 1,
+            name: '财富酒',
+            image: "/pages/images/cfj.png"
+          },
+          {
+            child_id: 2,
+            name: '汉酱酒',
+            image: "/pages/images/hjj.png"
+          },
+          {
+            child_id: 3,
+            name: '仁酒',
+            image: "/pages/images/rj.png"
+          },
+          {
+            child_id: 4,
+            name: '迎宾酒',
+            image: "/pages/images/ybj.png"
+          }
+        ]
+      },
+      {
+        cate_id: 4,
+        cate_name: "精品酒",
+        ishaveChild:  true,
+        children: [
+          {
+            child_id: 1,
+            name: '财富酒',
+            image: "/pages/images/cfj.png"
+          },
+          {
+            child_id: 2,
+            name: '汉酱酒',
+            image: "/pages/images/hjj.png"
+          },
+          {
+            child_id: 3,
+            name: '仁酒',
+            image: "/pages/images/rj.png"
+          },
+          {
+            child_id: 4,
+            name: '迎宾酒',
+            image: "/pages/images/ybj.png"
+          }
+        ]
+      },
+      {
+        cate_id: 5,
+        cate_name: "定制系列",
+        ishaveChild:  true,
+        children: [
+          {
+            child_id: 1,
+            name: '今世缘酒',
+            image: "/pages/images/jsyj.png"
+          },
+          {
+            child_id: 2,
+            name: '如意酒',
+            image: "/pages/images/ryj.png"
+          }
+        ]
+      },
+      {
+        cate_id: 6,
+        cate_name: "场景选酒",
+        ishaveChild: true,
+        children: [
+          {
+            child_id: 1,
+            name: '商务宴请',
+            image: "/pages/images/business.png"
+          },
+          {
+            child_id: 2,
+            name: '婚庆用酒',
+            image: "/pages/images/wedding.png"
+          },
+          {
+            child_id: 3,
+            name: '朋友聚会',
+            image: "/pages/images/friend.png"
+          },
+          {
+            child_id: 4,
+            name: '拜访礼节',
+            image: "/pages/images/pay.png"
+          }
+        ]
+      },
+      {
+        cate_id: 7,
+        cate_name: "葡萄酒",
+        ishaveChild: true,
+        children: [
+          {
+            child_id: 1,
+            name: '长城葡萄酒',
+            image: "/pages/images/ptj.png"
+          }
+        ]
+      }
+    ],
+    curNav: 1,
+    curIndex: 0
+  },
+
+  //事件处理函数  
+  switchRightTab: function (e) {
+    // 获取item项的id，和数组的下标值  
+    let id = e.target.dataset.id,
+      index = parseInt(e.target.dataset.index);
+    // 把点击到的某一项，设为当前index  
+    this.setData({
+      curNav: id,
+      curIndex: index
+    })
+  }
+})  

@@ -1,0 +1,26 @@
+<!--pages/updateadrs/udateadrs.wxml-->
+<form bindsubmit='updateadrs'>
+<view class="box">
+    <view class="box_list box_top">
+        <view class="box_list_left">收货人</view>
+        <input class="inputTypeTop" type='text' name='user_name' placeholder='' value="{{list.user_name}}"/>
+    </view>
+    <view class="box_list">
+        <view class="box_list_left">联系方式</view>
+        <input class="inputTypeDown" type='text' name='user_phone' placeholder='' value="{{list.user_phone}}" />
+    </view>
+    <view class="box_list box_top">
+        <view class="box_list_left">所在地区</view>
+        <input class="inputTypeDown" type='text' name='user_region' placeholder='' value="{{list.user_region}}" />
+        <image class="box_list_right" src="../images/leftarrows.png"></image>
+        
+    </view>
+    <view class="box_list">
+        <view class="box_list_left">详细地址</view>
+        <input class="inputTypeDown" type='text' name='detailed_address' placeholder='' value="{{list.detailed_address}}" />
+        
+    </view>
+    <button class="exit" formType="submit">确认</button>
+    <view class="exitDown" bindtap="deleteaddress"><view>删除地址</view></view>
+</view>
+</form>

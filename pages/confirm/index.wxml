@@ -1,0 +1,37 @@
+<!--pages/confirm/index.wxml-->
+<view class="backwhite">
+<view class="transverse"></view>
+<view class="text">洋洋</view>
+<view class="textone">182****3381</view>
+<view class="dizhi">北京市顺义区舜玉路顺畅大道交叉口281号顺平大厦8层802室</view>
+<image class="jt" src="jt.png"></image>
+<image class="tiao" src="tiao.png"></image>
+</view>
+<view class="backwhite">
+<view class="transverseon"></view>
+<view class="jiuname">五粮液</view>
+<image class="img" src="jiu.png"></image>
+<view class="jiudetails">全新52度五粮液(第八代经典版)-500ML</view>
+<view class="jiutype">酱香型ll</view>
+<view class="jiuPrice">¥1309.00</view>
+<image class="xuan" src="xuan.png"></image>
+<view class="transversetwo"></view>
+<view class="delivery">配送服务</view>
+<view class="deliver_goods">送货时间</view>
+<view class="express">中通快递</view>
+<view class="day">12月19日 周四 24:00前</view>
+<view class="transverseont"></view>
+<view class="balance">商品金额</view>
+<view class="balance">运费</view>
+<view class="balances">¥1309.00</view>
+<view class="balancese">¥0.00</view>
+<view class="transveo"></view>
+<view class="payment">
+<view class="shifu">实付金额：<view class="moneys">¥1309.00</view></view>
+</view>
+</view>
+<view class="footer">
+<view class="footerl">
+<view class="vxpay">微信支付</view>
+</view>
+</view>

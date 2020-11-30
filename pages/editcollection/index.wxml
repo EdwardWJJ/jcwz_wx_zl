@@ -1,0 +1,44 @@
+<!--pages/editcollection/index.wxml-->
+<view class="back">
+<view class="texto">共</view>
+<view class="textt">12</view>
+<view class="texth">件商品</view>
+<view class="deit">完成</view>
+</view>
+  <view class='wine'>
+  <checkbox-group  bindchange="niming">
+    <view class='wine-list'>
+      <view class='wine-item' bindtap='todetail'>
+      <checkbox class="check"  value="1309.00"  />
+        <image src='../images/weddinghome.png'></image>
+        <text class="textTop">贵州大曲（80年代）...</text>
+        <p class='p1'>￥199</p><p class='p2'>￥289</p>
+      </view>
+      <view class='wine-item'>
+      <checkbox class="check"  value="1309.00"  />
+        <image src='../images/maotai.png'></image>
+        <text class="textTop">贵州茅台酒（80年代）</text>
+        <p class='p1'>￥199</p><p class='p2'>￥289</p>
+      </view>
+      <view class='wine-item'>
+      <checkbox class="check"  value="1309.00"  />
+        <image src='../images/weddinghome.png'></image>
+        <text>贵州大曲（80年代）...</text>
+        <p class='p1'>￥199</p><p class='p2'>￥289</p>
+      </view>
+      <view class='wine-item'>
+      <checkbox class="check"  value="1309.00"  />
+        <image src='../images/maotai.png'></image>
+       <text>贵州茅台酒（80年代）...</text>
+        <p class='p1'>￥199</p><p class='p2'>￥289</p>
+      </view>
+    </view>  
+    </checkbox-group>
+  </view>
+
+<view class="footer">
+  <checkbox class="checkone"  value="1309.00"  />
+  <view class="qx">全选</view>
+  <view class="hongkuai">取消收藏</view>
+</view>
+
